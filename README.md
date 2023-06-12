@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3b3buqkvnhrhwlr7k2t9az2g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3b3buqkvnhrhwlr7k2t9az2g%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/prathyusha_km_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathyusha_km_" height="30" width="40" /></a>
+<a href="k-m-prathyusha-537a6720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-m-prathyusha-537a6720a" height="30" width="40" /></a>
+<a href="prathyusha_km_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathyusha_km_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
